@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e40fc16a-f71f-4f48-ad59-194cabdb37fb"
+      }
+    },
+    "owner": "deadlock21s-team"
   }
 }

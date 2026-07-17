@@ -1,5 +1,6 @@
 import { tabs } from "@/constants/data";
 import { colors, components } from "@/constants/theme";
+import "@/global.css";
 import clsx from "clsx";
 import { Image } from "expo-image";
 import { Tabs } from "expo-router";
